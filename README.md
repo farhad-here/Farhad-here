@@ -41,7 +41,11 @@ I'm passionate about technology, data, and creating web applications. My skills 
 
 
 ---
-
+### 🔥 **Favorite Tools:**
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-4285F4?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+---
 ### ⚽ **Sports:**
 - Soccer
 - Volleyball
@@ -51,6 +55,7 @@ I'm passionate about technology, data, and creating web applications. My skills 
 - Gym
 - Judo
 - Kickboxing
+- table tennis
 
 ---
 
