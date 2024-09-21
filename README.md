@@ -52,7 +52,7 @@ I'm passionate about technology, data, and creating web applications. My skills 
 - Basketball
 - Badminton
 - Swimming
-- Gym
+- BodyBuilding
 - Judo
 - Kickboxing
 - table tennis
