@@ -38,6 +38,8 @@ I'm passionate about technology, data, and creating web applications. My skills 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?logo=adobephotoshop&logoColor=white)
+
 
 
 ---
