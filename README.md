@@ -30,6 +30,7 @@ I'm passionate about technology, data, and creating web applications. My skills 
 [![Seaborn](https://img.shields.io/badge/-Seaborn-4C72AF?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![gradio](https://img.shields.io/badge/-gradio-FF4B4B?style=flat&logo=gradio&logoColor=yellow)]([https://gradio.com/](https://www.gradio.app/))
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white)
 ![MachineLearning](https://img.shields.io/badge/Machine_Learning-yellow?logo=code&logoColor=white)
