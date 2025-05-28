@@ -75,7 +75,6 @@ I'm passionate about technology, data, and creating web applications. My skills 
 
 ![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Computer Repair](https://img.shields.io/badge/Computer%20Repair-Hardware%20%26%20Troubleshooting-critical?logo=gnubash&logoColor=white)
-![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows OS](https://img.shields.io/badge/Windows-File%20Management-blue?logo=windows&logoColor=white)
 [![MS Word](https://img.shields.io/badge/Word-Document%20Processing-2B579A?logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Excel](https://img.shields.io/badge/Excel-Spreadsheets-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
