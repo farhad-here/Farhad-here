@@ -44,6 +44,7 @@ I'm passionate about technology, data, and creating web applications. My skills 
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat\&logo=r\&logoColor=white)](https://www.r-project.org/)
 ![MachineLearning](https://img.shields.io/badge/Machine_Learning-yellow?logo=code\&logoColor=white)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
