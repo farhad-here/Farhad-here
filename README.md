@@ -1,8 +1,18 @@
-# 👋 Hi, I'm Farhad!
+<div align="center">
+<a href="https://git.io/typing-svg"> <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=30%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Farhad" alt="Typing SVG" /></a>
+</div> 
+
+
+
+<hr>
 
 ### 💻 Full-Stack Developer & Data Analyst
 
-I'm passionate about technology, data, and creating web applications. My skills span both front-end and back-end development, as well as data science. I'm continuously learning and improving my abilities, especially in the fields of web development and data analysis.
+<img align="center" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc3OGNkeWFtc3M2c2czd2JwZ2VlaDRldXRmYXA4dGUzd3ZqZzQzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width=15% height=20%/>
+
+  
+<h4>I am a passionate developer with expertise in technology and data. My skills cover full-stack web development as well as data analysis. I am currently pursuing my studies in Data Science at university, committed to continuous learning and improving my abilities in web development.</h4>
+
 
 ---
 
