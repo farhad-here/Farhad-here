@@ -6,7 +6,7 @@
 
 <hr>
 
-### 💻 Full-Stack Developer & Data Analyst
+### 💻 Back-end and Front-end Developer & Data Analyst
 
 <img align="center" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc3OGNkeWFtc3M2c2czd2JwZ2VlaDRldXRmYXA4dGUzd3ZqZzQzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width=15% height=20%/>
 
