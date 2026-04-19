@@ -22,9 +22,10 @@
 
 #### 🌐 Frontend Development
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript\&logoColor=white&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-2E3440?style=flat&logo=react&logoColor=cyan)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat\&logo=tailwind-css\&logoColor=white)](https://tailwindcss.com/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat\&logo=sass\&logoColor=white)](https://sass-lang.com/)
