@@ -90,7 +90,6 @@
 [![MS Word](https://img.shields.io/badge/Word-Document%20Processing-2B579A?logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Excel](https://img.shields.io/badge/Excel-Spreadsheets-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentations-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
-![Internet](https://img.shields.io/badge/Internet%20%26%20Email-Web%20and%20Communication-00599C?logo=gmail&logoColor=white)
 [![Access](https://img.shields.io/badge/Access-Database%20Basics-A4373A?logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
 
 ---
@@ -103,16 +102,16 @@
 
 ---
 
-### ⚽ **Sports:**
-- Soccer
-- Volleyball
-- Basketball
-- Badminton
-- Swimming
-- BodyBuilding
-- Judo
-- Kickboxing
-- table tennis
+### 🏅 **Sports:**
+- Soccer⚽
+- Volleyball🏐
+- Basketball🏀
+- Badminton🏸
+- Swimming🏊‍♂️
+- BodyBuilding🏋️‍♂️
+- Judo🥋
+- Kickboxing🥊
+- table tennis🏓
 
 ---
 
