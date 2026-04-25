@@ -11,7 +11,7 @@
 <img align="center" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc3OGNkeWFtc3M2c2czd2JwZ2VlaDRldXRmYXA4dGUzd3ZqZzQzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width=15% height=20%/>
 
   
-<h4>I am a passionate developer with expertise in technology and data. My skills cover front-end and back-end web development as well as data analysis. I want to pursue my studies in Master's in Data Science at university, committed to continuous learning and improving my abilities.</h4>
+<h4>I am a passionate developer with expertise in technology and data.💻 My skills cover front-end and back-end web development as well as data analysis.♨️ I want to pursue my studies in Master's Data Science at the Netherlands' university👨‍🎓, committed to continuous learning and improving my abilities.🫡</h4>
 
 
 ---
